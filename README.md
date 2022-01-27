@@ -1,4 +1,9 @@
 ## Olá eu sou Pedro Henrique, desenvolvedor Backend e entusiasta em tecnologia!
+
+Formado em Sistemas para Internet pela Fatec, experiência com ambientes de infraestrutura de T.I, atualmente atuo com desenvolvimento back-end .NET (C#) e gerenciamento do banco de dados.
+ 
+Adoro trabalhar com tecnologia e atualmente estou estudando ambientes que utilizam sua infraestrutura como código, gosto da cultura de DevOps e a utilização Microservices e Docker para manter um ambiente com alta disponibilidade e escalável.
+
 <div align="center">
   <a href="https://github.com/Pedro-HDS">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pedro-HDS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
